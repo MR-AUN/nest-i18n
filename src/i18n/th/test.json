@@ -1,0 +1,22 @@
+
+{
+    "HELLO": "สวัสดี",
+    "PRODUCT": {
+    "NEW": "สินค้าใหม่: {name}"
+    },
+    "ENGLISH": "อังกฤษ",
+    "ARRAY": ["หนึ่ง", "สอง", "สาม"],
+    "cat": "แมว",
+    "cat_name": "แมว: {name}",
+    "set-up-password": {
+    "heading": "สวัสดี, {username}",
+    "title": "ลืมรหัสผ่าน",
+    "followLink": "โปรดคลิกที่ลิงก์เพื่อตั้งค่ารหัสผ่านของคุณ"
+    },
+    "day_interval": {
+    "one": "ทุกวัน",
+    "other": "ทุก {count} วัน",
+    "zero": "ไม่เลย"
+    },
+    "nested": "เราไปช้อปปิ้ง: $t(test.day_interval, {{\"count\": {count} }})"
+    }
